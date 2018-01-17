@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AWSLambda1\AWSLambda1.csproj" />
+    <ProjectReference Include="..\AWSLambda1\AWSLambda1.fsproj" />
   </ItemGroup>
 
 </Project>
